@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yahmart</string>
+    <string name="facebook_app_id">779967540409594</string>
+    <string name="fb_login_protocol_scheme">fb779967540409594</string>
+    <string name="facebook_client_token">e184fd92b371cac11001fa6212f2415f</string>
+</resources>

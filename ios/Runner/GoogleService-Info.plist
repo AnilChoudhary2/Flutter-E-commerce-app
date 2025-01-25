@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>364629942212-ta28p29eau6m4o5j5jg5qcc8sg260g7h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.364629942212-ta28p29eau6m4o5j5jg5qcc8sg260g7h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>364629942212-0stf14blkbis7ppb3s46iuokk5g6fd8c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyJ59RoWoW_kTCCoea6QZoDFDMmblbQJw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>364629942212</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.yahmartindia</string>
+	<key>PROJECT_ID</key>
+	<string>yahmart-india</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yahmart-india.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:364629942212:ios:c10cdcd27317ed07474e91</string>
+</dict>
+</plist>

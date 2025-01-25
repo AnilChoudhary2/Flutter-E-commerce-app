@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "364629942212",
+    "project_id": "yahmart-india",
+    "storage_bucket": "yahmart-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364629942212:android:64e834a94f297ca3474e91",
+        "android_client_info": {
+          "package_name": "com.app.yahmartindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364629942212-0stf14blkbis7ppb3s46iuokk5g6fd8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.yahmartindia",
+            "certificate_hash": "d23c8c479c3efc24a024258fc3af5ea7858993ae"
+          }
+        },
+        {
+          "client_id": "364629942212-mn0u5ev0vv9qra4bt9t9d1h30909dct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcvLu1Fgnb_Iw_Gwu3PZHSv1CZHwabg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364629942212-bn7jn8sfa2m6rfu0k7norjdkpe9p6qbt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364629942212-ta28p29eau6m4o5j5jg5qcc8sg260g7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.yahmartindia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
